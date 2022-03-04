@@ -1,4 +1,4 @@
-I am clo3b 👋
+I am Chloe 👋
 =============
 
 I am interested in technology
