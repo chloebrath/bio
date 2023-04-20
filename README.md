@@ -5,11 +5,15 @@ I am interested in technology
 ------------------------------
 
 # I a currently learning #
-- HTML
-- Javascript
-- CSS
 - C++
-- Unix
-- Python
+- CSS
+- Java
+- HTML
+- MySQL
+- Python 
+- Javascript
+- Unix/Linux
+- Networking
+- Cloud Computing
 
 📫 chloe.brathwaite@outlook.com
