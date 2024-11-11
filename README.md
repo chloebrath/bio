@@ -1,19 +1,21 @@
 I am Chloe 👋
 =============
 
-I am interested in technology
+I am a recent graduate
 ------------------------------
 
-# I a currently learning #
+# My competencies include #
+- SQL
 - C++
 - CSS
-- Java
 - HTML
-- MySQL
-- Python 
+- Java
+- UNIX
+- NoSQL
+- Python
+- Networks
+- Scripting
 - Javascript
-- Unix/Linux
-- Networking
 - Cloud Computing
 
 📫 chloe.brathwaite@outlook.com
